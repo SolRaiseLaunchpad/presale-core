@@ -1,6 +1,8 @@
 # SOLRAISE - Solana Token Sale Contract
 
-Smart contract designed for facilitating the sale of SPL tokens with additional features, including a presale mechanism and allocation tickets. The contract is built using the Anchor framework.
+SolRaise is the go-to platform for launching and participating in IDOs on the blazing fast Solana blockchain. Empowering projects to raise capital and investors to discover the next big thing, SolRaise provides a seamless and secure environment for token launches. Join us in shaping the future of decentralized finance (DeFi) with SolRaise.
+
+We've published our smart contract that is designed for facilitating the sale of SPL tokens with additional features, including a presale mechanism and allocation tickets. The contract is built using the Anchor framework.
 
 Website: https://solraise.xyz
 
