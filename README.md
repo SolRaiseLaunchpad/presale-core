@@ -1,4 +1,4 @@
-# SOLRAISE - Solana Token Sale Contract
+# SOLRAISE - Your Prime IDO Launchpad on Solana
 
 SolRaise is the go-to platform for launching and participating in IDOs on the blazing fast Solana blockchain. Empowering projects to raise capital and investors to discover the next big thing, SolRaise provides a seamless and secure environment for token launches. Join us in shaping the future of decentralized finance (DeFi) with SolRaise.
 
@@ -10,7 +10,7 @@ Twitter: @SolRaisePad
 
 Telegram: @SolRaise_Launchpad
 
-## Key Features
+## Solana Token Sale Contract Key Features
 
 - **Token Sale:** The contract enables the sale of SPL tokens, allowing users to purchase tokens directly from the vending machine.
   
