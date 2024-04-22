@@ -3,7 +3,9 @@
 Smart contract designed for facilitating the sale of SPL tokens with additional features, including a presale mechanism and allocation tickets. The contract is built using the Anchor framework.
 
 Website: https://solraise.xyz
+
 Twitter: @SolRaisePad
+
 Telegram: @SolRaise_Launchpad
 
 ## Key Features
