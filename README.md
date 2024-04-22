@@ -1,6 +1,11 @@
-# Solana Token Sale Contract
+# SOLRAISE - Solana Token Sale Contract
 
 Smart contract designed for facilitating the sale of SPL tokens with additional features, including a presale mechanism and allocation tickets. The contract is built using the Anchor framework.
+
+Website: https://solraise.xyz
+Twitter: @SolRaisePad
+Telegram: @SolRaise_Launchpad
+
 ## Key Features
 
 - **Token Sale:** The contract enables the sale of SPL tokens, allowing users to purchase tokens directly from the vending machine.
@@ -51,4 +56,4 @@ Before you begin, make sure you have the following tools installed:
    ```
 
 
-© 2023 alby
+© 2024 SolRaise
